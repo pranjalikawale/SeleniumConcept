@@ -1,0 +1,24 @@
+{
+    "credentials":[
+        {"browser": "Firefox",
+          "browser_version": "70.0",
+          "os_version": "8.1",
+          "os": "Windows", 
+          "resolution": "1600x1200"
+        },
+        { "browser": "Chrome",
+          "browser_version": "85.0 beta",
+          "os_version": "10",
+          "os": "Windows", 
+          "resolution": "1920x1080"
+        },
+        { "browser": "IE",
+          "browser_version": "11.0",
+          "os_version": "10",
+          "os": "Windows", 
+          "resolution": "1920x1080"
+        }
+        
+            
+    ]
+}

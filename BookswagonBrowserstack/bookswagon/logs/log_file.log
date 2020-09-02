@@ -1,0 +1,36 @@
+08/16/2020 07:55:12 PM: INFO: Class Name : TestBookswagon Testcase Name: test_login when : call  status : passed
+
+
+08/16/2020 07:55:23 PM: INFO: Class Name : TestBookswagon Testcase Name: test_search_book_not_available when : call  status : passed
+
+
+08/16/2020 07:55:32 PM: INFO: Class Name : TestBookswagon Testcase Name: test_search_book when : call  status : passed
+
+
+08/16/2020 07:55:40 PM: INFO: Class Name : TestBookswagon Testcase Name: test_add_to_cart_and_placed_order when : call  status : passed
+
+
+08/16/2020 07:56:00 PM: INFO: Class Name : TestBookswagon Testcase Name: test_shipping_address when : call  status : passed
+
+
+08/16/2020 07:56:08 PM: INFO: Class Name : TestBookswagon Testcase Name: test_review_order when : call  status : passed
+
+
+08/16/2020 07:56:12 PM: INFO: Class Name : TestBookswagon Testcase Name: test_logout when : call  status : passed
+
+
+08/16/2020 07:56:49 PM: INFO: Class Name : TestBookswagon Testcase Name: test_select_previously_store_delivery_address when : call  status : passed
+
+
+08/16/2020 07:57:55 PM: INFO: Class Name : TestNegativeCaseBookswagon Testcase Name: test_login when : call  status : passed
+
+
+08/16/2020 07:58:40 PM: ERROR: Class Name : TestNegativeCaseBookswagon Testcase Name: test_shipping_address when : call  status : failed
+
+
+08/16/2020 07:59:05 PM: INFO: Class Name : TestNegativeCaseBookswagon Testcase Name: test_add_to_cart_and_placed_order_with_zero_quantity when : call  status : passed
+
+
+
+
+
